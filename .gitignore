@@ -1,0 +1,8 @@
+.DS_Store
+venv/
+conf.ini
+
+idea/
+__pychache__/
+ek_erilaz.session
+sample.txt
