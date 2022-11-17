@@ -2,7 +2,8 @@
 venv/
 conf.ini
 
-idea/
+.idea/
+__pychache__
 __pychache__/
 ek_erilaz.session
 sample.txt
